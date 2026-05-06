@@ -113,6 +113,8 @@ Envía a cada persona su kit como prefieras:
 - **Memoria USB:** Entrega en mano
 - **Mensajería cifrada:** Signal, WhatsApp, etc.
 
+Si envías los kits por correo o mensajería, borra los mensajes de tu carpeta de enviados cuando cada persona confirme que los recibió. De lo contrario, tu cuenta acabará guardando una copia de cada parte — lo que anula el sentido de haberlas separado.
+
 ### Después de crear los kits {#after-creating}
 
 Una vez que tus kits están listos, hay algunas cosas que vale la pena hacer antes de dejarlo de lado:

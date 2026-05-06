@@ -113,6 +113,8 @@ Envoyez à chaque personne son enveloppe comme vous le souhaitez :
 - **Clé USB :** Remise en main propre
 - **Messagerie chiffrée :** Signal, WhatsApp, etc.
 
+Si vous envoyez les enveloppes par e-mail ou messagerie, supprimez les messages de votre dossier d'envoi une fois la réception confirmée par chaque personne. Sinon, votre compte finit par garder une copie de chaque part — ce qui annule l'intérêt de les avoir séparées.
+
 ### Après la création {#after-creating}
 
 Une fois vos enveloppes prêtes, quelques choses valent la peine d'être faites avant de passer à autre chose :

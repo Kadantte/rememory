@@ -113,6 +113,8 @@ Send each person their bundle however you prefer:
 - **USB drive:** Physical handoff
 - **Encrypted messaging:** Signal, WhatsApp, etc.
 
+If you send bundles by email or messaging, delete the messages from your sent folder once each friend confirms receipt. Otherwise your account ends up holding a copy of every piece — defeating the point of splitting them.
+
 ### After Creating Bundles {#after-creating}
 
 Once your bundles are ready, there are a few things worth doing before you put this out of your mind:

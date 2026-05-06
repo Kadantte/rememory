@@ -113,6 +113,8 @@ Schicke jeder Person ihr Paket, wie du willst:
 - **USB-Stick:** Persönliche Übergabe
 - **Verschlüsselter Messenger:** Signal, WhatsApp usw.
 
+Wenn du Pakete per E-Mail oder Messenger verschickst, lösche die Nachrichten aus deinem Gesendet-Ordner, sobald die jeweilige Person den Empfang bestätigt hat. Sonst behält dein Konto eine Kopie jedes Teils — und genau das wollte das Aufteilen verhindern.
+
 ### Nach dem Erstellen {#after-creating}
 
 Sobald deine Pakete fertig sind, gibt es ein paar Dinge, die sich lohnen, bevor du das Thema beiseitelegst:
