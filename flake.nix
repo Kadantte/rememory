@@ -25,7 +25,7 @@
 
         npmDeps = pkgs.fetchNpmDeps {
           src = ./.;
-          hash = "sha256-7rupclIzqQqIMF4oyB7BdyY2Ler3XcspaJAKXzx/pQU=";
+          hash = "sha256-wmQI0GrzNmMEVnnVxS6V4hKrVfNqsJ/4WBulnsOeGEw=";
         };
 
         # Build TypeScript + WASM assets with the native toolchain. These are
@@ -36,7 +36,7 @@
           version = versionFile;
           src = ./.;
 
-          vendorHash = "sha256-v9wTHT8PewBM11g6uA3QKFUpRvoCLRpJG5NSP4+uK9Y=";
+          vendorHash = "sha256-7lrMSuyxn9W1Cf6YqcDdMcCJSktfMEEGHjCqVRszf9k=";
           proxyVendor = true;
 
           overrideModAttrs = old: {
@@ -82,7 +82,7 @@
             version = versionFile;
             src = ./.;
 
-            vendorHash = "sha256-v9wTHT8PewBM11g6uA3QKFUpRvoCLRpJG5NSP4+uK9Y=";
+            vendorHash = "sha256-7lrMSuyxn9W1Cf6YqcDdMcCJSktfMEEGHjCqVRszf9k=";
             proxyVendor = true; # Download deps during build instead of vendoring
 
             # The go-modules derivation only fetches Go deps — skip TS/WASM build there
